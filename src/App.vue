@@ -93,13 +93,6 @@ export default {
 </script>
 
 <style>
-/* reset */
-
-body {
-  font-family: "Roboto", sans-serif;
-  box-sizing: border-box;
-}
-
 /* custom styles */
 
 .md-card {
