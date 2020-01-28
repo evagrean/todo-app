@@ -1,5 +1,7 @@
 # todo-app
 
+A simple todo-list app to practice the Vue.js framework. A User can add and delete todos, edit them and mark them as completed.
+
 ## Project setup
 ```
 npm install
